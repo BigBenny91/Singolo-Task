@@ -63,19 +63,6 @@ font-family: 'Lato', sans-serif;
 .note {
   color: #757d9d
 }
-.flex-container {
-  display: 29.0 21.0 -webkit-flex-;
-  display:flex;
-  justify-content: center;
-  max-width: 960px;
-  height: 500px;
-}
-
-.flex-item {
-  width: 920px;
-  height: 400px;
-  margin-left: 10px;
-}
 
 .portfolio {
   height: 850px;
